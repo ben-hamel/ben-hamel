@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on buidling the tech scene in Newfoundland, Canada.
 - 🤔 I’m looking for help with coding interviews and code reviews.
 - 📫 How to reach me: benehamel@gmail.com https://www.linkedin.com/in/benehamel/
-- 🎙️ Fun fact: I love writing and recording music. 
+- 🎙️ Fun fact: I love writing and recording my original music.
