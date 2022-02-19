@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.   
 - 🔭 I’m currently working on a personal portfolio using Next.js and Tailwind CSS.
 - 🧑‍🎓 I’m currently learing Python(Django), iOS Development(Objective-C,Swift, and UIKit), Laravel, and Wordpress during my final semester.  
-- 👯 I’m looking to collaborate on buidling the tech scene in Newfoundland, Canada.
+- 👯 I’m looking to collaborate on beginner-friendly programming content for new learners.
 - 🤔 I’m looking for help with coding interviews and code reviews.
 - 💬 Ask me about ...
 - 📫 How to reach me: benehamel@gmail.com https://www.linkedin.com/in/benehamel/
