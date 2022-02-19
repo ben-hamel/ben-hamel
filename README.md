@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ben Hamel. I am a Web Developer Student about to enter the workforce in May 2022. 
 
 <!--
 **ben-hamel/ben-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
