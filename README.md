@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🧑‍🎓 I’m currently learning Python(Django), iOS Development(Objective-C, Swift, and UIKit), Laravel, and WordPress during my final semester at NSCC.
 - 🤔 I’m looking for help with coding interviews and code reviews.
 - 📫 How to reach me: benehamel@gmail.com https://www.linkedin.com/in/benehamel/
-- 🎙️ Fun fact: I love writing and recording my original music.
+- 🎙️ Fun fact: I love writing and recording my original music. https://open.spotify.com/artist/0Roo1CsEgtDZVL355pwwqc?si=_0fpOCGiS360UKMD-rBrNA&nd=1
