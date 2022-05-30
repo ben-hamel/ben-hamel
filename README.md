@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ben Hamel. I am a web developer student and a soon-to-be graduate in May 2022. 
+### Hi there 👋 I'm Ben Hamel. I am a React/React Native software developer. 
 
 <!--
 **ben-hamel/ben-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.   
-- 🔭 I’m currently working on a personal portfolio using Next.js and Tailwind CSS.
-- 🧑‍🎓 I’m currently learning Python(Django), iOS Development(Objective-C, Swift, and UIKit), Laravel, and WordPress during my final semester at NSCC.
-- 🤔 I’m looking for help with coding interviews and code reviews.
-- 📫 How to reach me: benehamel@gmail.com https://www.linkedin.com/in/benehamel/
-- 🎙️ Fun fact: I love writing and recording my original music. https://sptfy.com/7rZk
+- 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
