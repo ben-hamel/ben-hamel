@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-hamel&layout=compact)
