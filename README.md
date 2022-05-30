@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ben Hamel. I am a React/React Native software developer. 
+### Hi there 👋 I'm Ben Hamel. I am a software developer with experince in React/React Native, Mobile development, and Java. 
 
 <!--
 **ben-hamel/ben-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
