@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ben Hamel. I am a software developer with experince in React/React Native, Mobile development, and Java. 
+### Hi there 👋 I'm Ben Hamel. I am a software developer with over 2 years of experience in web development (React/React Native, Vue), and I enjoy building full-stack apps in my free time.
 
 <!--
 **ben-hamel/ben-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.
+- 🧑‍🎓 I'm currently learning Next.js, monorepos, and then moving on to micro-frontends.
+- 🎙️ Fun fact: I love creating music and music entrepreneurship.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-hamel)
