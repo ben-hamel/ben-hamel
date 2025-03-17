@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ben Hamel. I am a software developer with over 2 years of experience in web development (React/React Native, Vue), and I enjoy building full-stack apps in my free time.
+### Hi there 👋 I'm Ben Hamel. I am a software developer, and I enjoy building full-stack apps in my free time.
 
 <!--
 **ben-hamel/ben-hamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
