@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a React-Native/Firebase mobile app to promote and encourage collaboration between musicians, graphic designers, and other artistic and media-based communities.
-- 🧑‍🎓 I'm currently learning Next.js, monorepos, and then moving on to micro-frontends.
 - 🎙️ Fun fact: I love creating music.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ben-hamel)
